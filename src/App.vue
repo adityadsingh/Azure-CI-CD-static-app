@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Aditya Singh Baghel Data Scientist</h1>
+    <h1>Aditya Singh IIT Delhi</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
